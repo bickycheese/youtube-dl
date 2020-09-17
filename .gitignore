@@ -50,4 +50,4 @@ tmp/
 venv/
 
 # VS Code related files
-.vscode
+# .vscode

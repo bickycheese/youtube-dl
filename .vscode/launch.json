@@ -1,0 +1,20 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Streamz",
+            "type": "python",
+            "request": "launch",
+            "module": "youtube_dl",
+            "args": [
+                "https://www.streamz.be/streamz/afspelen/e27def3c5-ee14-4af6-8c9e-6dd1e5345e66",
+                "--username", "stanny+nieuws@nuytkens.com",
+                "--password", "4szw4tbAD#^iJt"
+            ]
+
+        }
+    ]
+}
